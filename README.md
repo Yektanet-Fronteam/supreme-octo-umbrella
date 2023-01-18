@@ -7,3 +7,4 @@ Using [Rick and Morty](https://rickandmortyapi.com/graphql) API implement the fo
 - On hover of each row, show a tooltip containing "image," "name" and "species" of character.
 - On click of each row, go to a detail page with full data about the character.
 - Use either TanStack Query, Apollo Client, or Relay. It has a plus point in order.
+- Put a readme in your project explaining how to run it.
